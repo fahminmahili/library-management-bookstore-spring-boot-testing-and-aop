@@ -33,8 +33,8 @@ Java 8 or higher
 Maven
 After installing the required software, perform the following steps:
 
-Clone the repository: git clone https://github.com/https://github.com/SITE-ADA/as3-testing-and-aspect-oriented-programming-fahminmahili.git.
-Navigate to the project directory: cd https://github.com/SITE-ADA/as3-testing-and-aspect-oriented-programming-fahminmahili.git.
+Clone the repository: git clone https://github.com/fahminmahili/library-management-bookstore-spring-boot-testing-and-aop.git.
+Navigate to the project directory: cd https://github.com/fahminmahili/library-management-bookstore-spring-boot-testing-and-aop.git.
 Build the project: mvn clean package.
 Run the project: java -jar target/author-testing-aop.jar
 
